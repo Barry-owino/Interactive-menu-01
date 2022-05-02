@@ -76,5 +76,10 @@ img{
   display:inline-block;
   margin-left:10px;
   margin-bottom:5px;
-
+}
+.menu-links a:hover{
+  font-weight:700;
+}
+.menu-links a:hover::after{
+  display:inline-block;
 }
