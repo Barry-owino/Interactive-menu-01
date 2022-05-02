@@ -41,3 +41,19 @@ img{
   display:flex;
   align-items:center;
 }
+.right-links img{
+  width:40px;
+  margin-left:20px;
+  cursor:pointer;
+  background-color:#fff;
+  padding:2px;
+  border-radius:5px;
+}
+
+.right-links a{
+  text-decoration:none;
+  color:#fff;
+  background:#c09591;
+  padding:9px 15px;
+  border-radius:30px;
+}
