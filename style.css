@@ -33,6 +33,7 @@ img{
   left:10%;
   padding:50px 100px;
   height:80vh;
+  transition:top 1s ease-in-out;
 }
 
 .right-links{
