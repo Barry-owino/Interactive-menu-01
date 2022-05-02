@@ -24,3 +24,12 @@ img{
   right:10%;
   cursor:pointer;
 }
+
+.menu-box{
+  width:80%;
+  background:#008080;
+  position:absolute;
+  top:17%;
+  left:10%;
+  padding:50px 100px;
+}
