@@ -32,6 +32,7 @@ img{
   top:17%;
   left:10%;
   padding:50px 100px;
+  height:80vh;
 }
 
 .right-links{
@@ -65,4 +66,15 @@ img{
   width:fit-content;
   margin:25px 0;
   font-size:26px;
+}
+
+.menu-links a::after{
+  content:"";
+  width:40px;
+  height:5px;
+  background:#c09591;
+  display:inline-block;
+  margin-left:10px;
+  margin-bottom:5px;
+
 }
