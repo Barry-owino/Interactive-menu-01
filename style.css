@@ -5,10 +5,22 @@
   box-sizing: border-box;
 }
 
+img{
+  max-width:35px;
+}
+
 .container{
   width:100%;
   height:100vh;
   background:#BBF1F1;
   position:relative;
   overflow:hidden;
+}
+
+.menu-icon{
+  width:35px;
+  position:absolute;
+  top:5%;
+  right:10%;
+  cursor:pointer;
 }
